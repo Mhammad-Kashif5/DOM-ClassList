@@ -1,0 +1,21 @@
+.highlight {
+    color: red;
+}
+
+.toggle {
+    color: blue;
+    font-size: 20px;
+}
+
+.check {
+    color: orange;
+}
+
+.active-btn {
+    color: blue;
+}
+
+.mode {
+    background-color: black;
+    color: white;
+}
